@@ -1,0 +1,193 @@
+.login,
+.please-enter-your {
+  position: absolute;
+  display: inline-block;
+}
+.login {
+  top: calc(50% - 303px);
+  left: 5.94rem;
+  width: 23.31rem;
+  height: 9.38rem;
+}
+.please-enter-your {
+  top: 0;
+  left: 0;
+  width: 25.75rem;
+  height: 4.75rem;
+}
+.group-child,
+.group-item {
+  position: absolute;
+  top: 5.56rem;
+  left: 0.63rem;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-cornflowerblue);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 23.25rem;
+  height: 3.56rem;
+}
+.group-item {
+  top: 11.19rem;
+}
+.forgot-password,
+.password,
+.username-or-e-mail {
+  position: absolute;
+  top: 6.13rem;
+  left: 5.19rem;
+  display: inline-block;
+  width: 15.31rem;
+  height: 2.75rem;
+  opacity: 0.6;
+}
+.forgot-password,
+.password {
+  top: 11.5rem;
+  width: 11.44rem;
+  height: 2.69rem;
+}
+.forgot-password {
+  top: 15.25rem;
+  left: 13.56rem;
+  width: 11.63rem;
+  height: 1.94rem;
+}
+.group-inner {
+  position: absolute;
+  top: -0.06rem;
+  left: -0.06rem;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-cornflowerblue);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid #14ff00;
+  box-sizing: border-box;
+  width: 23.25rem;
+  height: 3.56rem;
+  opacity: 0.7;
+}
+.login2 {
+  margin: 0;
+}
+.login1 {
+  position: absolute;
+  top: 0;
+  left: 9.44rem;
+  display: inline-block;
+  width: 13.69rem;
+  height: 2.44rem;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 18rem;
+  left: 1rem;
+  width: 23.13rem;
+  height: 3.44rem;
+  font-size: 2.19rem;
+}
+.key-1-icon,
+.user-1-1 {
+  position: absolute;
+  top: 11.75rem;
+  left: 2.25rem;
+  width: 2.19rem;
+  height: 2.19rem;
+  object-fit: cover;
+}
+.user-1-1 {
+  top: 6rem;
+  left: 2.06rem;
+  border-radius: 16px;
+  width: 2.5rem;
+  height: 2.5rem;
+}
+.rectangle-div {
+  position: absolute;
+  top: -0.06rem;
+  left: -0.06rem;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-gray);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray);
+  box-sizing: border-box;
+  width: 23.25rem;
+  height: 3.56rem;
+}
+.user-1-icon {
+  position: absolute;
+  top: 0.5rem;
+  left: 1.44rem;
+  border-radius: 9px;
+  width: 2.5rem;
+  height: 2.5rem;
+  object-fit: cover;
+}
+.not-a-member,
+.or-sign-in-with,
+.register {
+  position: absolute;
+  top: 0.44rem;
+  left: 5.44rem;
+  display: inline-block;
+  width: 15.19rem;
+  height: 2.56rem;
+}
+.not-a-member,
+.register {
+  top: 4.06rem;
+  left: 4.94rem;
+  width: 13.44rem;
+  height: 2.5rem;
+  opacity: 0.4;
+}
+.register {
+  left: 15.94rem;
+  width: 7.19rem;
+  height: 1.81rem;
+  opacity: 0.2;
+}
+.rectangle-group {
+  position: absolute;
+  top: 23.81rem;
+  left: 1rem;
+  width: 23.13rem;
+  height: 6.56rem;
+}
+.please-enter-your-login-and-yo-parent {
+  position: absolute;
+  top: 7.5rem;
+  left: 0;
+  width: 25.75rem;
+  height: 30.38rem;
+  font-size: var(--font-size-5xl);
+}
+.login-parent {
+  position: absolute;
+  top: calc(50% - 210px);
+  left: 35.63rem;
+  width: 29.25rem;
+  height: 37.88rem;
+}
+.mutual-funds {
+  position: absolute;
+  top: 12.94rem;
+  left: 37.19rem;
+  font-size: 3.75rem;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 47.25rem;
+  height: 16.69rem;
+  opacity: 0.4;
+}
+.macbook-pro-14-1 {
+  position: relative;
+  background-color: #1b54c2;
+  width: 100%;
+  height: 63.5rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 5rem;
+  color: var(--color-white);
+  font-family: var(--font-jockey-one);
+}

@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-jockey-one: "Jockey One";
+
+  /* font sizes */
+  --font-size-5xl: 1.5rem;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray: #1e1e1e;
+  --color-cornflowerblue: #5081e2;
+  --color-gainsboro: #d9d9d9;
+
+  /* border radiuses */
+  --br-2xl: 21px;
+}
